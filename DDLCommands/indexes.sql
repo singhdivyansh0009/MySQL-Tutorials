@@ -1,3 +1,4 @@
+/* customer table creation statement */
 create table customer(
     customer_id int primary key,   
     customer_name varchar(255) not null, 
